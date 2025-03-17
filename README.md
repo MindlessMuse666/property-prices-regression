@@ -24,17 +24,17 @@
 </p>
 
 ## 3. Графики и диаграммы
-#### 3.3.1. Сравнение моделей регрессии
+### 3.1. Сравнение моделей регрессии
 <p align="center">
   <img src="plots/model_comparison.png" alt="model_comparison">
 </p>
 
-#### 3.3.2. Распределение цен на недвижимость
+### 3.2. Распределение цен на недвижимость
 <p align="center">
   <img src="plots/price_distribution.png" alt="price_distribution">
 </p>
 
-#### 3.3.3. Зависимость цены от площади
+### 3.3. Зависимость цены от площади
 <p align="center">
   <img src="plots/size_vs_price.png" alt="size_vs_price">
 </p>
